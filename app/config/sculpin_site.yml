@@ -1,0 +1,4 @@
+# The contents of this file are parsed and made available via site.*.
+#  e.g. {{ site.title }}
+title: CFPengine
+subtitle: Keeping the CFP simple.
